@@ -1,0 +1,14 @@
+.mainSection{
+    display: flex;
+    background-color: #17292d;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+
+/* .btn{
+    border: 2px solid #e81e3c;
+    border-radius: 2em;
+    background-image: linear-gradient(#fff,#fff);
+} */
+

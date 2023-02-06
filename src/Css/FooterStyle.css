@@ -1,0 +1,11 @@
+footer{
+    bottom: 0;
+    width: 100%;
+    padding: .5em;
+    color: white;
+}
+
+.icons{
+    margin-right: 1rem;
+    margin-left: 3rem;
+}

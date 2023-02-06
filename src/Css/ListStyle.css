@@ -1,0 +1,41 @@
+:root{
+    --mainColor:#121e21;
+}
+header{
+    background-color: var(--mainColor);
+    color: white;
+}
+
+.container{
+    width: 95%;
+    background-color: var(--mainColor);
+    margin: 0 auto;
+    max-width: 1200px;
+    align-items: center;
+}
+
+.container-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    width: 60px;
+    padding: .5em 0;
+}
+
+.logocontainer{
+    display: flex;
+    align-items: center;
+}
+
+.litsItem{
+    margin: .4em;
+    text-decoration: none;
+    font-size: 1rem;
+    font-family: 'Poppins', sans-serif;
+}
+.h3{
+    color: white;
+}
